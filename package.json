@@ -1,7 +1,7 @@
 {
   "name": "reetika-bhanushali",
   "version": "0.1.0",
-  "homepage": "https://ReetikaNEU.github.io/rbhanushali.github.io",
+  "homepage": "https://reetikaneu.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
