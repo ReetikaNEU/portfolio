@@ -3,8 +3,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/ReetikaNEU/rbhanushali.github.io.svg?style=social&label=Fork)
 ![GitHub stars](https://img.shields.io/github/stars/ReetikaNEU/rbhanushali.github.io.svg?style=social&label=Stars)
 ![GitHub issues](https://img.shields.io/github/issues/ReetikaNEU/rbhanushali.github.io.svg)
-![MIT License](https://img.shields.io/github/license/ReetikaNEU/rbhanushali.github.io.svg)
-![LinkedIn](https://github.com/ReetikaNEU/rbhanushali.github.io/blob/main/LICENSE.md)
+![MIT License](https://github.com/ReetikaNEU/rbhanushali.github.io/blob/main/LICENSE.md)
+![LinkedIn](https://www.linkedin.com/in/reetikab4/)
 
 # Reetika Bhanushali's Portfolio
 
