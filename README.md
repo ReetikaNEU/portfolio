@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/ReetikaNEU/rbhanushali.github.io.svg?style=social&label=Fork)](https://github.com/ReetikaNEU/rbhanushali.github.io/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/ReetikaNEU/rbhanushali.github.io.svg?style=social&label=Stars)](https://github.com/ReetikaNEU/rbhanushali.github.io/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ReetikaNEU/rbhanushali.github.io.svg)](https://github.com/ReetikaNEU/rbhanushali.github.io/issues)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ReetikaNEU/rbhanushali.github.io/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ReetikaNEU/rbhanushali.github.io/blob/main/LICENSE.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-reetikab4-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/reetikab4/)
 
 # Reetika Bhanushali's Portfolio
@@ -24,7 +24,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Acknowledgments
 
