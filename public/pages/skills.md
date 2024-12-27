@@ -1,40 +1,58 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
 - Desktop App Development
+  - Java Swing
+  - NetBeans Platform
 - Web Development (Frontend & Backend)
+  - HTML5, CSS, JavaScript
+  - Spring Boot
 
-## LLM and AI Skills
+## AI and Machine Learning
 - Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- GraphRAG
-- Knowledge Graphs
-- Chatbot Development
-- Agentic RAG
+- Generative AI Tools
+- Prompt Engineering
+- Machine Learning for Analytics
+- Predictive Analytics
 
-## Programming languages
-- C# .NET
-- Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+## Data Engineering
+- Data Modeling
+- Entity-Relationship Diagrams (ERD)
+- Data Management
+- Data Visualization
+  - Microsoft Power BI
+  - SQL Server Management Studio
+- Databases
+  - SQL, NoSQL
+  - MySQL, MongoDB, Hadoop
 
-## Databases
-- MSSQL
-- PostgreSQL
-- MySQL
-- SQLite
+## Cloud and DevOps
+- Cloud Applications
+  - Azure, GCP, Heroku
+- Version Control Systems (VCS)
+  - Git
+- Profiling Tools
+- Splunk
 
-## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+## Programming Languages
+- Java (Core Java, JUnit, Java X)
+- Python (Python Programming)
 
-## Version Control Systems (VCS)
-- Git
+## Security and Privacy
+- Data Privacy and Security
+- Encryption
+
+## Collaboration and Project Management
+- GitHub
+- Scrum
+- Team Collaboration
+
+## UI/UX Design
+- UI/UX Prototyping (Figma)
+
+## Additional Skills
+- IoT Integration
+- Account Management
+- Accounting
+- Problem Solving
+- Cybersecurity Basics

@@ -1,37 +1,50 @@
-# 👨‍💻 Experience
+👨‍💻 **Experience**
 
+---
 
-**Research Engineer** @ [Fraunhofer Institute for Applied Information Technology FIT | Data Science and Artificial Intelligence](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html) _(Jan 2024 - Present)_
+**Consultant @ JP Morgan Chase & Co. (Accenture Pvt. Ltd., Mumbai, India)**  
+_August 2021 – July 2024_
 
-Focused on Retrieval-Augmented Generation (RAG) and Knowledge Graphs.
-- Detailed achievements:
-  - Developed the BAföG chatbot using RAG, optimizing it to provide more accurate and relevant responses, benefiting students applying for financial aid.
-  - Collaborated with Deloitte to develop a hybrid RAG(VectorRAG, GraphRAG) system, improving business decision-making.
-  - Automated administrative tasks through scripting, resulting in a 90% efficiency increase.
-- _**Technologies used:**_ Python, LangChain, LangGraph, LlamaIndex, Ollama, Neo4j, MLflow
-
-&nbsp;
-
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
-
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+**What did I do?**
+- Revamped SQL queries for the downstream project by implementing indexing, adding hints in the ULM package, and achieving a task running time reduction from over 10 hours to less than 2 hours.
+- Upgraded project from Java 9 to 11, JUnit 4 to 5, and Moneta 2.5.x to 2.7.12, boosting compatibility. Migrated logs to Splunk, connected with GTI, and set up automated alerts for monitored trades, enhancing project efficiency.
+- Developed a custom automation tool with Swagger API and Java for Equity Finance, streamlining the download of billions of trade messages between production and UAT via MQ and AMPS channels, enhancing local testing accuracy by aligning data consistently with the production environment.
+- _**Technologies used:**_ Java, SQL, Splunk, Swagger API
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Custom Software Engineering Analyst @ Accenture Pvt. Ltd., Mumbai, India**  
+_August 2021 - April 2022_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+**What did I do?**
+- Initiated and orchestrated a pioneering Sign Language Interpreter project, leading a team of 20 to enhance functionalities, including a guided video feature using the MediaPipe library.
+- Elevated the interpreter’s sophistication, and boosted company profits by $2.5 million; crafted an interpreter innovatively, accommodating both Indian Sign Language and American Sign Language.
+- _**Technologies used:**_ Java, MediaPipe
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**Volunteer @ ISKCON Juhu, Mumbai, India**  
+_January 2019 – August 2024_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+**What did I do?**
+- Organized community events, managed logistics, and oversaw volunteers to ensure seamless execution.
+- Led social media outreach efforts to improve engagement and participation, increasing community awareness.
+- Coordinated with diverse stakeholders, enhancing communication and collaboration within the organization.
+
+&nbsp;
+
+**Instructor @ WhiteHat Jr**  
+_March 2021 – June 2023_
+
+**What did I do?**
+- Delivered programming lessons to children, fostering creativity and problem-solving skills.
+- Created structured lesson plans tailored to diverse learning needs, improving student engagement and retention.
+
+&nbsp;
+
+**Member @ SAKEC IEEE Chapter**  
+_July 2017 – March 2021_
+
+**What did I do?**
+- Organized seminars and technical events, fostering teamwork and professional development among members.
+- Collaborated on field visits, quizzes, and activities, ensuring smooth planning and execution.
