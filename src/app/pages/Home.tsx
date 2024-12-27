@@ -1,6 +1,4 @@
 import {
-  Box,
-  Grid,
   IconButton,
   Link,
   Stack,
@@ -14,7 +12,6 @@ import { useLocation } from "react-router-dom";
 import { links } from "./links";
 import './Home.css'
 import Divider from "@mui/material/Divider";
-import MDContainer from "../components/MDContainer";
 import GitHubCalendar, {createCalendarTheme} from "react-github-calendar";
 
 interface Props {
