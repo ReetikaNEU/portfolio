@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/badge/build-success-green.svg)](Your link to the build status if available)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](Your website link)
+[![Build Status](https://img.shields.io/badge/build-success-green.svg)](https://github.com/ReetikaNEU/portfolio/deployments)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://reetikaneu.github.io/portfolio/)
 [![GitHub forks](https://img.shields.io/github/forks/ReetikaNEU/rbhanushali.github.io.svg?style=social&label=Fork)](https://github.com/ReetikaNEU/rbhanushali.github.io/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/ReetikaNEU/rbhanushali.github.io.svg?style=social&label=Stars)](https://github.com/ReetikaNEU/rbhanushali.github.io/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ReetikaNEU/rbhanushali.github.io.svg)](https://github.com/ReetikaNEU/rbhanushali.github.io/issues)
