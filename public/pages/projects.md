@@ -49,23 +49,22 @@ To enhance communication accessibility by developing an innovative Sign Language
 
 ---
 
-**AI-Powered Code Review with GitHub Integration**  
-_In Progress_
+### **AI-Powered Code Review with GitHub Integration**  
 
-**Purpose:**
+**Purpose:**  
 To automate code reviews in GitHub pull requests using AI and static analysis tools to enhance code quality and collaboration.
 
-**Scope of Work:**
-- Developing GitHub Actions workflows to trigger code analysis on pull requests.
-- Creating documentation to guide developers on tool usage and best practices.
-- Using PyGithub API to analyze pull requests for bugs, inefficiencies, and coding standard violations.
-- Publishing feedback as inline comments in GitHub for improved collaboration and faster reviews.
+**Scope of Work:**  
+- Developed GitHub Actions workflows to trigger code analysis on pull requests.  
+- Created documentation to guide developers on tool usage and best practices.  
+- Used the PyGithub API to analyze pull requests for bugs, inefficiencies, and coding standard violations.  
+- Published feedback as inline comments in GitHub for improved collaboration and faster reviews.
 
-**Impact:**
-Streamlining development and providing reusable documentation for adoption in developer communities.
+**Impact:**  
+Streamlined development processes and provided reusable documentation for adoption in developer communities, enhancing collaboration and code quality.
 
-**Technologies used:** 
-- Python, GitHub Actions, PyGithub API, CodeBERT, Pylint
+**Technologies used:**  
+- Python, GitHub Actions, PyGithub API, CodeBERT by Hugging Face, Pylint[GitHub](https://github.com/ReetikaNEU/AI_Code_Review)
 
 ---
 
